@@ -110,8 +110,8 @@ export default function Footer() {
                     <li>
                       <p>
                         <i className='fas fa-envelope'></i>Email:
-                        <a href='mailto:contactinfo@gmail.com'>
-                          contactinfo@gmail.com
+                        <a href='mailto:bodkhedeepak@gmail.com'>
+                          bodkhedeepak@gmail.com
                         </a>
                       </p>
                     </li>
